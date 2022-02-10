@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body bgcolor="color: skyblue">
+       <h1 style="color: orange;"> Here is my Assignment 4 solution </h1>
+
+       <h3 style="color: yellow;"> Right click here; inspect element and checkout the console </h3>
+ <script src="script.js.txt">
+ 	
+ </script>
+
+</body>
+</html>
